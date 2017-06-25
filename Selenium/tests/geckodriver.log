@@ -1,0 +1,213 @@
+1498332008375	geckodriver	INFO	Listening on 127.0.0.1:57876
+1498332008425	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498332010529	Marionette	INFO	Listening on port 57883
+1498332010616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498332010842	Marionette	DEBUG	loaded listener.js
+2017-06-24 12:20:10.937 plugin-container[3734:572765] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-24 12:20:10.942 plugin-container[3734:572765] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498332011167	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498332011468	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498332011469	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498332011888	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498332011948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498332011950	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498332011951	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498332011954	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498332012242	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012251	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012253	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012262	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012269	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012275	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012282	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012286	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012290	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012294	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=4&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DszBrCMnWkWAQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQxihqnp3y6uLEvfxsHY9N92j2YJWQSxyIIOHlDlABOKFcPxsuWIw7wJOZ2r5Asis8w1bplVbbpRDminyp_qa5i&encoded_two=AQTy21uHgAIDKVJBSGrDIGG4BrgQyID6CDhI_FdfkCzD2Olj-ez_V_Thu7QCWp_cqCufrslAL60hSNeDO31MUdjw"
+1498332012386	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=4&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DszBrCMnWkWAQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQxihqnp3y6uLEvfxsHY9N92j2YJWQSxyIIOHlDlABOKFcPxsuWIw7wJOZ2r5Asis8w1bplVbbpRDminyp_qa5i&encoded_two=AQTy21uHgAIDKVJBSGrDIGG4BrgQyID6CDhI_FdfkCzD2Olj-ez_V_Thu7QCWp_cqCufrslAL60hSNeDO31MUdjw"
+1498332012389	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1498332012684	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=szBrCMnWkWAQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=1858600059&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DszBrCMnWkWAQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D293742851%26cdct%3D2%26is_vtc%3D1"
+1498332012686	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1498332012776	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498332012809	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1498332013305	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1498332013311	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1498332013810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1498332013814	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1498332013817	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1498332013849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014043	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014050	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332014052	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014054	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332014054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014057	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332014057	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014059	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332014059	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014060	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332014061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014062	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332014063	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014065	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332016496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/i/videos/tweet/878680964108394496?embed_source=clientlib&player_id=0&rpc_init=1"
+1498332016686	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/i/videos/tweet/878680964108394496?embed_source=clientlib&player_id=0&rpc_init=1"
+1498332016691	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332016801	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3734] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1498334461384	geckodriver	INFO	Listening on 127.0.0.1:58302
+1498334461438	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498334463544	Marionette	INFO	Listening on port 58309
+1498334463661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498334463855	Marionette	DEBUG	loaded listener.js
+2017-06-24 13:01:03.958 plugin-container[3776:607811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-24 13:01:03.962 plugin-container[3776:607811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498334464210	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498334464475	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498334464475	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498334464912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498334464961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498334464965	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498334464965	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498334464967	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498334465261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498334465270	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498334465276	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498334465284	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498334465285	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498334465292	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498334465331	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498334465418	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1498334465884	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1498334465892	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1498334466659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466677	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1498334466680	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1498334466682	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1498334466687	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1498334466691	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1498334466698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466710	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334466711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466714	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334466716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466718	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334466719	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466720	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334466725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466727	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334466728	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466729	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334466729	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466731	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334468163	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334468187	Marionette	INFO	New connections will no longer be accepted
+[Child 3776] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1498336251788	geckodriver	INFO	Listening on 127.0.0.1:58616
+1498336251840	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498336253942	Marionette	INFO	Listening on port 58623
+1498336254039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498336254253	Marionette	DEBUG	loaded listener.js
+2017-06-24 13:30:54.341 plugin-container[3978:629359] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-24 13:30:54.344 plugin-container[3978:629359] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498336254592	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498336254877	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498336254878	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498336255337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498336255346	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498336255350	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498336255350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498336255352	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498336255675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336255683	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336255690	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336255699	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336255700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336255706	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336255764	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498336255841	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1498336256559	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1498336256565	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1498336257074	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1498336257076	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1498336257078	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1498336257081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1498336257083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1498336257112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257134	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336257134	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257139	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336257139	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257142	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336257142	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257145	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336257146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257148	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336257148	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257150	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336257150	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257152	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336259706	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336259727	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3978] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1498336275790	geckodriver	INFO	Listening on 127.0.0.1:58728
+1498336276846	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498336278987	Marionette	INFO	Listening on port 58737
+1498336279057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498336279307	Marionette	DEBUG	loaded listener.js
+2017-06-24 13:31:19.400 plugin-container[3987:630118] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-24 13:31:19.401 plugin-container[3987:630118] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498336279644	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498336279913	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498336279914	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498336280344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498336280410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498336280415	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498336280416	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498336280418	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498336280695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336280707	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336280713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336280723	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336280726	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336280733	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336280772	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498336280861	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1498336281369	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1498336281376	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1498336282001	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282194	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1498336282198	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1498336282199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1498336282201	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1498336282204	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1498336282212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282214	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336282215	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282217	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336282217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282219	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336282219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282222	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336282223	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282224	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336282224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282225	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336282226	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282227	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336283672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/i/videos/tweet/878705615899643904?embed_source=clientlib&player_id=0&rpc_init=1"
+1498336283863	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/i/videos/tweet/878705615899643904?embed_source=clientlib&player_id=0&rpc_init=1"
+1498336283868	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336283963	Marionette	INFO	New connections will no longer be accepted
+[Child 3987] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702

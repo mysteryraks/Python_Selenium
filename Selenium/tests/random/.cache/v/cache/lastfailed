@@ -1,0 +1,4 @@
+{
+  "basic_test.py::BasicTests::test_facebook": true,
+  "basic_test.py::BasicTests::test_twitter": true
+}
